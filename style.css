@@ -457,6 +457,7 @@ a img.aligncenter {
   background-color: #ffffff;
   -webkit-animation: fadeInDown 700ms;
   animation: fadeInDown 700ms;
+  backface-visibility: hidden;
   -webkit-backface-visibility: hidden;
   border-radius: 0px;
   background: rgba(255, 255, 255) none repeat;
